@@ -1,5 +1,5 @@
 <h1 align="left" id="shuja-title">Hey :smile:! My name is Shuja Ur Rehman. I'm a dev from Pakistan</h1>
-<h3 align="left">I am a Software Developer at ConsoleDot </h3>
+<h3 align="left">I am a Software Developer</h3>
 
 
 - 🔭 Just started writing blogs
