@@ -84,7 +84,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#shuja-tech">
-        <img src="[https://www.gstatic.com/devrel-devsite/prod/vd66275adb6a18222c17fbda979bde6b3bf2a675531cc7e54b05dbb69d107b056/firebase/images/touchicon-180.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmTvzUdx8eOCcFTcfs8jTC9cx5R9hiEsMHA&s)" width="48" height="48" alt="Firebase" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmTvzUdx8eOCcFTcfs8jTC9cx5R9hiEsMHA&s" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
